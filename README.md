@@ -94,7 +94,7 @@ Possible programming assignments include
 * Write a program that uses reinforcement learning to play a game
 * Write a program that uses Long-short Term Memory network to classify a document
 
-*Note:* This is the first semester I am teaching this course and I am open to other exciting programming assignment ideas.
+*Note:* This semester is the first time I am teaching this course and I am open to other exciting programming assignment ideas.
 
 ## Programming Language
 
