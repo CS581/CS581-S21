@@ -10,6 +10,55 @@ CS 480
 
 ## Topics
 
+* Search and optimization (2 weeks)
+  * Hill climbing
+  * Gradient ascent/descent
+  * Coordinate descent
+  * Constrained optimization
+  * Genetic algorithms
+  * Simulated annealing
+  * Maximum likelihood estimation
+  * Bayesian estimation
+  * Expectation maximization
+  * Specific algorithms
+    * A-star
+    * Alpha-beta search
+    * Monte Carlo tree search
+    * Backpropagation
+* Probabilistic reasoning (2 weeks)
+  * Bayesian networks
+  * Temporal models
+  * Hidden Markov models
+  * Kalman filters
+* Decision-making under uncertainty (3 weeks)
+  * Influence diagrams
+  * Value of information
+  * Markov decision processes
+  * Bandit problems
+* Learning (3 weeks)
+  * Supervised learning
+  * Naive Bayes
+  * Logistic regression
+  * Support vector machines
+  * Deep learning
+    * Convolutional neural networks, recurrent neural networks
+  * Reinforcement learning
+    * Passive reinforcement learning, active reinforcement learning, temporal-difference learning, policy search
+* Knowledge representation (2 weeks)
+  * Propositional logic
+  * First-order logic
+  * Conjunctive normal form
+  * Resolution
+  * Ontological engineering
+* AI Safety and Ethics (1.5 weeks)
+  * AI safety
+  * Privacy
+  * Bias and fairness in machine learning
+  * Explainable AI
+* Other topics (1.5 weeks)
+  * Computer vision
+  * Natural language processing
+
 ## Learning outcomes
 
 
