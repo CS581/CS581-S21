@@ -69,6 +69,10 @@ CS 480
 * Apply the resolution algorithm to answer logical entailment queries
 * Summarize and critique bias and fairness definitions and solutions
 
+## Textbook
+
+No textbook is required. You might find Artificial Intelligence: A Modern Approach (http://aima.cs.berkeley.edu/) to be useful for this course.
+
 
 ## Instructor
 
@@ -83,6 +87,15 @@ Web: http://www.cs.iit.edu/~mbilgic/
 
 TBD
 
+## Assignments
+Assingments will be a mix of written and programming assignments. Written assignments will require you to solve toy versions of the problems manually. Programming assignments will require you to write Python code to solve larger problems. 
+
+Possible programming assignments include 
+* Write a program that uses reinforcement learning to play a game
+* Write a program that uses Long-short Term Memory network to classify a document
+
+*Note:* This is the first semester I am teaching this course and I am open to other exciting programming assignment ideas.
+
 ## Programming Language
 
 Python 3.x
@@ -93,7 +106,11 @@ Python 3.x
 * Jupyter notebook https://jupyter.org/
 * Pandas https://pandas.pydata.org/
 * Scikit-learn http://scikit-learn.org/stable/ 
-* *more will be added later*
+* aima https://github.com/aimacode/aima-python
+* Tensorflow https://www.tensorflow.org/
+* Pytorch https://pytorch.org/
+* Keras https://keras.io/
+* *more might be added later*
 
 ## Grading
 
