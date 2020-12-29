@@ -61,6 +61,14 @@ CS 480
 
 ## Learning outcomes
 
+* Implement and evaluate search and optimization algorithms for various AI problems both in discrete and continuous spaces
+* Carry out probabilistic inference for both episodic and sequential tasks
+* Compute value of information using probabilistic reasoning and influence diagrams
+* Design and implement an agent that can learn from feedback using reinforcement learning
+* Develop and evaluate deep learning models of image and text classification
+* Apply the resolution algorithm to answer logical entailment queries
+* Summarize and critique bias and fairness definitions and solutions
+
 
 ## Instructor
 
@@ -74,7 +82,6 @@ Web: http://www.cs.iit.edu/~mbilgic/
 ## Teaching Assistants
 
 TBD
-
 
 ## Programming Language
 
